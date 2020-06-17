@@ -4,4 +4,4 @@
 
 API : https://www.hpb.health.gov.lk/api/get-current-statistical
 
-demo : ![Image of My Projects](https://res.cloudinary.com/dvxqvghj9/image/upload/v1591803041/small_covid-tracker_7f2d7928f5.jpg?74197.64500000747)
+demo : ![Image of My Projects](https://res.cloudinary.com/dvxqvghj9/image/upload/v1592407735/Screenshot_20200414_201521_com.ashfanndm.covid19srilankanews_cmhghh.jpg)
